@@ -7,7 +7,7 @@
  '(custom-group-tag-face ((t (:underline t :foreground "lightblue"))) t)
  '(custom-variable-tag-face ((t (:underline t :foreground "lightblue"))) t)
  '(font-lock-builtin-face ((t nil)))
- '(font-lock-comment-face ((t (:foreground "green4"))))
+ '(font-lock-comment-face ((t (:foreground "LimeGreen"))))
  '(font-lock-function-name-face ((((class color) (background dark)) (:foreground "white")))) 
  '(font-lock-keyword-face ((t (:foreground "white" ))))
  '(font-lock-string-face ((t (:foreground "#0fdfaf"))))
