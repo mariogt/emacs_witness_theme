@@ -1,9 +1,9 @@
 (custom-set-faces
- '(default ((t (:foreground "#d3b58d" :background "#0A2E30"))))
+ '(default ((t (:foreground "#d3b58d" :background "#041818")))) ;;#0A2E30
  '(custom-group-tag-face ((t (:underline t :foreground "lightblue"))) t)
  '(custom-variable-tag-face ((t (:underline t :foreground "lightblue"))) t)
  '(font-lock-builtin-face ((t nil)))
- '(font-lock-comment-face ((t (:foreground "LimeGreen"))))
+ '(font-lock-comment-face ((t (:foreground "#3fdf1f"))))
  '(font-lock-function-name-face ((((class color) (background dark)) (:foreground "white")))) 
  '(font-lock-keyword-face ((t (:foreground "white" ))))
  '(font-lock-string-face ((t (:foreground "#0fdfaf"))))
